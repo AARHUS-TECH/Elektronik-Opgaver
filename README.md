@@ -21,7 +21,7 @@ Selve simulerings siden kan findes på:
 
 # Hosting på skolepraktikkens server
 Det skal hostes på Skolepraktikkens server. Enten lokalt eller der vælges at hoste siden på SKPs officielle webside.
-
+Det er meget vigtigt, at den er tilgængelig i oktober måned.
 
 Dette er en test på at lave diagrammer
 ```mermaid
