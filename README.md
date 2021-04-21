@@ -24,10 +24,10 @@ Det skal hostes på Skolepraktikkens server. Enten lokalt eller der vælges at h
 Det er meget vigtigt, at den er tilgængelig i oktober måned.
 
 Dette er en test på at lave diagrammer
-```mermaid
+'''mermaid
 graph LR;
     A[Analyse af problem] --> B[Hvilket software kan vi bruge som udgangspunkt]
     B -- Ja --> C[PhAT fra Colorado Univercity]
     B -- Nej --> D[Andet software]
     D --> A
-```
+'''
