@@ -10,9 +10,6 @@ Projektet er ved at blive anlagt, men her er foreløbig beskrivelse af software:
 * Software skal kunne levere fornuft og og relevant information til eleven
 * ... så eleven kan bruge information i sin (skriftlige?) opgaveløsning
 
-# Målgruppe er folkeskole elever
-Der skal 
-
 # Inspiration og kilder
 Univercity of Colorado Boulder har en side med mange simuleringer lavet i HTML5, Java og Flash.
 Der er specifikt to simuleringer som er interessante:
