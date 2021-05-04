@@ -37,19 +37,7 @@ class IntroScreenView extends CCKCScreenView {
       circuitElementToolFactory.createRightBatteryToolNode(),
       circuitElementToolFactory.createLightBulbToolNode(),
       circuitElementToolFactory.createResistorToolNode(),
-      circuitElementToolFactory.createSwitchToolNode(),
-
-      circuitElementToolFactory.createWireToolNode(),
-      circuitElementToolFactory.createFuseToolNode(),
-      circuitElementToolFactory.createDollarBillToolNode(),
-      circuitElementToolFactory.createPaperClipToolNode(),
       circuitElementToolFactory.createCoinToolNode(),
-
-      circuitElementToolFactory.createWireToolNode(),
-      circuitElementToolFactory.createEraserToolNode(),
-      circuitElementToolFactory.createPencilToolNode(),
-      circuitElementToolFactory.createHandToolNode(),
-      circuitElementToolFactory.createDogToolNode()
     ];
 
     super( model, circuitElementToolNodes, tandem, {

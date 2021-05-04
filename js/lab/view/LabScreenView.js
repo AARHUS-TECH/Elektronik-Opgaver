@@ -55,24 +55,7 @@ class LabScreenView extends CCKCScreenView {
       circuitElementToolFactory.createRightBatteryToolNode(),
       circuitElementToolFactory.createLightBulbToolNode( model.circuit.lightBulbGroup ),
       circuitElementToolFactory.createResistorToolNode(),
-      circuitElementToolFactory.createSwitchToolNode(),
-
-      circuitElementToolFactory.createWireToolNode(),
-      circuitElementToolFactory.createFuseToolNode(),
-      circuitElementToolFactory.createHighVoltageBatteryToolNode(),
-      circuitElementToolFactory.createHighResistanceBulbToolNode(),
-      circuitElementToolFactory.createHighResistanceResistorToolNode(),
-
-      circuitElementToolFactory.createWireToolNode(),
-      circuitElementToolFactory.createDollarBillToolNode(),
-      circuitElementToolFactory.createPaperClipToolNode(),
       circuitElementToolFactory.createCoinToolNode(),
-      circuitElementToolFactory.createEraserToolNode(),
-
-      circuitElementToolFactory.createWireToolNode(),
-      circuitElementToolFactory.createHandToolNode(),
-      circuitElementToolFactory.createDogToolNode(),
-      circuitElementToolFactory.createPencilToolNode(),
       realLightBulbToolNode // The automatic scrolling function assumes this be on the last page.
     ];
 
@@ -82,7 +65,7 @@ class LabScreenView extends CCKCScreenView {
                                                                                                                       ' on the last page' );
 
     super( model, circuitElementToolNodes, tandem, merge( {
-      showSeriesAmmeters: true
+      showSeriesAmmeters: false
     }, options ) );
   }
 }
