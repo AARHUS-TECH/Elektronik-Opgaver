@@ -27,7 +27,7 @@ git clone https://github.com/phetsims/babel.git
 git clone https://github.com/phetsims/bamboo.git
 git clone https://github.com/phetsims/brand.git
 git clone https://github.com/phetsims/chipper.git
-git clone https://github.com/phetsims/circuit-construction-kit-common.git
+git clone https://github.com/AARHUS-TECH/circuit-construction-kit-common
 git clone https://github.com/phetsims/circuit-construction-kit-dc.git
 git clone https://github.com/phetsims/dot.git
 git clone https://github.com/phetsims/griddle.git
